@@ -16,4 +16,4 @@ echo "Do you know a good place?"
 read place
 
 echo "$place has the best $food ever."
-echo "Lets go!! I'm staving."
+echo "Lets go!! I'm starving."
